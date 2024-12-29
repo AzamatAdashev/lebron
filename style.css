@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+*{
+    margin: 0;
+}
+body{
+    font-family: "Comfortaa", sans-serif; 
+}
+a{
+    text-decoration: none;
+    margin: 0 10px;
+    color:white;
+}
+header{
+    padding: 10px 5%;
+    position: fixed;
+    left:0;
+    top:0;
+    width:100%;
+    background: #092942;
+}
+header>*{
+    display: inline-block;
+    width: 450px;
+}
+header h1{
+    font-size: 36 px;
+    color: white;
+}
+.space{
+    width: 5%;
+}
+.prostranstvo{
+    width: 1%;
+}
+p{
+    color: #82C0BB;
+    font-size: 36;
+}
+.pusto{
+    height:  700;
+}
+.post{
+    margin-top: 100px;
+    background-color: white;
+    padding: 10px 5%;
+}
+.left{
+    margin-left: 0;
+    margin-right: 10;
+}
+.right{
+    margin-right: 0;
+    margin-left: 10;
+    float: right;
+}
+footer{
+    margin-top: 40px;
+    background-color: black;
+    padding: 10px 0;
+    text-align: center;
+    color: white;
+}
+.post>p{
+    text-align: start;
+    display: inline-block;
+    width: 450px;
+    font-size: 30px;
+    vertical-align: middle;
+}
+.post>img{
+    text-align: end;
+    display: inline-block;
+    width: 450px;
+    font-size: 30px;
+    vertical-align: middle;
+}
+#info{
+    font-size: 48px;    
+}
+#cavs{
+    margin-top: 9%;
+}
+.mia{
+    margin-top: 10%;
+}
+#footer{
+    color: white;
+}
+.last{
+    font-size: 36px;
+    margin-top: 10%;
+    text-align: center;
+    margin-bottom: 1%;  
+}
+.top{
+    margin-top: 100px;
+}
+.top2{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.topless{
+    margin-top: 30px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+.p{
+    font-size: 36px;
+    margin-top: 30px;
+}
